@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Certificate</h3>
-![aws-certified-solutions-architect-associate](https://github.com/Yutarotaro/Yutarotaro/assets/53333096/e0b5e705-5dac-4f1d-910e-ee872f704fdf)
+<img src="https://github.com/Yutarotaro/Yutarotaro/assets/53333096/e0b5e705-5dac-4f1d-910e-ee872f704fdf" width='100'>
 
 
 <h3 align="left">Languages and Tools:</h3>
