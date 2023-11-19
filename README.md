@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yutarotaro</h1>
 <h3 align="center">しがないエンジニア</h3>
 
+<h3>Certificate</h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf652a86-659e-422e-ad20-d5a3fb2a48c8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@bored_funuke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bored_funuke" height="30" width="40" /></a>
