@@ -10,6 +10,8 @@
 <h3 align="left">Certificate</h3>
 <a href="https://www.credly.com/badges/cf652a86-659e-422e-ad20-d5a3fb2a48c8/public_url">
 <img src="https://github.com/Yutarotaro/Yutarotaro/assets/53333096/e0b5e705-5dac-4f1d-910e-ee872f704fdf" width='100'>
+<a href="https://www.credly.com/badges/edfb7d5c-2aad-4418-b66e-eb0e72d54173/public_url">  
+<img src="https://github.com/user-attachments/assets/167c1001-41c9-48dd-8fe7-a57c35524091" width='100'>
 <a href="https://www.credly.com/badges/804495b6-eb5b-4b6e-8419-bed993318d97/public_url">
 <img width="100" alt="professional-cloud-architect" src="https://github.com/user-attachments/assets/337f92b8-51f1-4dc3-9070-935c6b611c4b">
 
